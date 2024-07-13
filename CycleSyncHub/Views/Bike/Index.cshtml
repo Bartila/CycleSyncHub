@@ -1,0 +1,56 @@
+﻿@model IEnumerable<CycleSyncHub.Application.Bike.BikeDto>
+
+@{
+    ViewData["Title"] = "Bikes";
+}
+
+<h1>Bikes</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-secondary">Create New</a>
+</p>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="card m-3" style="width: 18rem; transition: transform .2s;">
+            <div class="card-body">
+                <h5 class="card-title mb-2 text-muted">@item.Model</h5>
+                <p class="card-text">@item.Description</p>
+                <a class="btn btn-primary" asp-controller="Bike" asp-action="Details" asp-route-encodedName="@item.EncodedName">Details</a>
+                @if (item.IsEditable)
+                {
+                    <a class="btn btn-outline-secondary" asp-controller="Bike" asp-action="Edit" asp-route-encodedName="@item.EncodedName">Edit</a>
+                    <form asp-action="DeleteConfirmed" method="post" class="d-inline">
+                        <input type="hidden" name="EncodedName" value="@item.EncodedName" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                }
+            </div>
+        </div>
+    }
+</div>
+
+@section Styles {
+    <style>
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .card-body {
+            transition: background-color .3s, color .3s;
+        }
+
+            .card-body:hover {
+                background-color: #f8f9fa;
+                color: #333;
+            }
+    </style>
+}
+
+@section Scripts {
+    <script>
+        // Miejsce na dodatkowy JavaScript, jeśli jest potrzebny
+    </script>
+}

@@ -1,0 +1,79 @@
+﻿@using CycleSyncHub.Application.Commands.CreateBike;
+
+@model CreateBikeCommand
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Bike</title>
+    <link rel="stylesheet" href="~/css/styleCreate.css" />d
+</head>
+<body>
+    <h1>Create Bike</h1>
+    <hr />
+    <div class="row">
+        <div class="col-md-4 offset-md-4">
+            <form action="/Bike/Create" method="post">
+                <div class="form-group mb-3">
+                    <label class="control-label" asp-for="Model">Model</label>
+                    <input class="form-control" type="text" asp-for="Model">
+                    <span asp-validation-for="Model" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="Description" class="control-label"></label>
+                    <input asp-for="Description" class="form-control" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label class="control-label" asp-for="TypeOfBike">Type</label>
+                    <input class="form-control" type="text" asp-for="TypeOfBike">
+                    <span asp-validation-for="TypeOfBike" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label class="control-label" asp-for="Weight">Weight</label>
+                    <input class="form-control" type="text" asp-for="Weight">
+                    <span asp-validation-for="Weight" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label class="control-label" asp-for="Size">Size</label>
+                    <input class="form-control" type="text" asp-for="Size">
+                    <span asp-validation-for="Size" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label class="control-label" asp-for="GroupSet">GroupSet</label>
+                    <input class="form-control" type="text" asp-for="GroupSet">
+                    <span asp-validation-for="GroupSet" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <input type="submit" value="Create" class="btn btn-primary">
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const formGroups = document.querySelectorAll(".form-group");
+
+            formGroups.forEach(group => {
+                const input = group.querySelector(".form-control");
+
+                input.addEventListener("focus", () => {
+                    group.classList.add("focused");
+                });
+
+                input.addEventListener("blur", () => {
+                    group.classList.remove("focused");
+                });
+            });
+        });
+    </script>
+
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+</body>
+</html>

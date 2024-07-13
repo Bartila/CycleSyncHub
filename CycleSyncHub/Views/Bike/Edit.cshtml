@@ -1,0 +1,59 @@
+﻿@using CycleSyncHub.Application.BikeInfo.Commands
+
+
+@model CycleSyncHub.Application.Bike.BikeDto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Bike Details</title>
+    <link rel="stylesheet" href="~/css/styleDetails.css" />
+</head>
+<body>
+    <h1>@Model.Model Details</h1>
+
+    <div class="details-container">
+        <hr />
+        <dl>
+            <dt>@Html.DisplayNameFor(model => model.Model)</dt>
+            <dd>@Html.DisplayFor(model => model.Model)</dd>
+
+            <dt>@Html.DisplayNameFor(model => model.TypeOfBike)</dt>
+            <dd>@Html.DisplayFor(model => model.TypeOfBike)</dd>
+
+            <dt>@Html.DisplayNameFor(model => model.Weight)</dt>
+            <dd>@Html.DisplayFor(model => model.Weight)</dd>
+
+            <dt>@Html.DisplayNameFor(model => model.Size)</dt>
+            <dd>@Html.DisplayFor(model => model.Size)</dd>
+
+            <dt>@Html.DisplayNameFor(model => model.GroupSet)</dt>
+            <dd>@Html.DisplayFor(model => model.GroupSet)</dd>
+        </dl>
+    </div>
+
+    <h3>Infos:</h3>
+
+    <div id="infos" class="row" data-encoded-name="@Model.EncodedName"></div>
+
+    <div>
+        @if (Model.IsEditable)
+        {
+            <a class="btn btn-outline-secondary" asp-controller="Bike" asp-action="Edit" asp-route-encodedName="@Model.EncodedName">Edit</a>
+        }
+        <partial name="_CreateBikeInfo" model="new CreateBikeInfoCommand() { BikeEncodedName = Model.EncodedName }" />
+        <a class="btn btn-back" asp-action="Index">Back to List</a>
+    </div>
+
+    @section Scripts {
+        <script src="~/js/Details2.js"></script>
+        <script src="~/js/Bike/Edit.js"></script>
+    }
+</body>
+</html>
