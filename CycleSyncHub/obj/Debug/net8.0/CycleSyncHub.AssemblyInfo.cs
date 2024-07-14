@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CycleSyncHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cf3adef0948ae5403c55ba27e0f54f1030cc394")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbf2dbc212ffcfd1d5e21f0f2618ef86edc1650c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CycleSyncHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CycleSyncHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

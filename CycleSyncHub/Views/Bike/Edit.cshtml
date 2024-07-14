@@ -1,10 +1,8 @@
 ﻿@using CycleSyncHub.Application.BikeInfo.Commands
-
-
-@model CycleSyncHub.Application.Bike.BikeDto
+@model CycleSyncHub.Application.Bike.Commands.EditBike.EditBikeCommand
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Edit Bike";
 }
 
 <!DOCTYPE html>
@@ -12,46 +10,71 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewData["Title"] - Bike Details</title>
+    <title>@ViewData["Title"] - Edit Bike</title>
     <link rel="stylesheet" href="~/css/styleDetails.css" />
 </head>
 <body>
-    <h1>@Model.Model Details</h1>
+    <h1>Edit @Model.Model</h1>
 
-    <div class="details-container">
-        <hr />
-        <dl>
-            <dt>@Html.DisplayNameFor(model => model.Model)</dt>
-            <dd>@Html.DisplayFor(model => model.Model)</dd>
+    <div class="edit-container">
+        <form asp-action="Edit" method="post">
+            <div class="form-group">
+                <label asp-for="Model" class="control-label"></label>
+                <input asp-for="Model" class="form-control" />
+                <span asp-validation-for="Model" class="text-danger"></span>
+            </div>
 
-            <dt>@Html.DisplayNameFor(model => model.TypeOfBike)</dt>
-            <dd>@Html.DisplayFor(model => model.TypeOfBike)</dd>
+            <div class="form-group mb-3">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
 
-            <dt>@Html.DisplayNameFor(model => model.Weight)</dt>
-            <dd>@Html.DisplayFor(model => model.Weight)</dd>
+            <div class="form-group">
+                <label asp-for="TypeOfBike" class="control-label"></label>
+                <input asp-for="TypeOfBike" class="form-control" />
+                <span asp-validation-for="TypeOfBike" class="text-danger"></span>
+            </div>
 
-            <dt>@Html.DisplayNameFor(model => model.Size)</dt>
-            <dd>@Html.DisplayFor(model => model.Size)</dd>
+            <div class="form-group">
+                <label asp-for="Weight" class="control-label"></label>
+                <input asp-for="Weight" class="form-control" />
+                <span asp-validation-for="Weight" class="text-danger"></span>
+            </div>
 
-            <dt>@Html.DisplayNameFor(model => model.GroupSet)</dt>
-            <dd>@Html.DisplayFor(model => model.GroupSet)</dd>
-        </dl>
+            <div class="form-group">
+                <label asp-for="Size" class="control-label"></label>
+                <input asp-for="Size" class="form-control" />
+                <span asp-validation-for="Size" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="GroupSet" class="control-label"></label>
+                <input asp-for="GroupSet" class="form-control" />
+                <span asp-validation-for="GroupSet" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="hidden" asp-for="EncodedName" />
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+            </div>
+        </form>
     </div>
+
 
     <h3>Infos:</h3>
 
     <div id="infos" class="row" data-encoded-name="@Model.EncodedName"></div>
-
-    <div>
-        @if (Model.IsEditable)
-        {
-            <a class="btn btn-outline-secondary" asp-controller="Bike" asp-action="Edit" asp-route-encodedName="@Model.EncodedName">Edit</a>
-        }
-        <partial name="_CreateBikeInfo" model="new CreateBikeInfoCommand() { BikeEncodedName = Model.EncodedName }" />
-        <a class="btn btn-back" asp-action="Index">Back to List</a>
-    </div>
+    <div><partial name="_CreateBikeInfo" model="new CreateBikeInfoCommand() { BikeEncodedName = Model.EncodedName }" /></div>
+   
+    
 
     @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
         <script src="~/js/Details2.js"></script>
         <script src="~/js/Bike/Edit.js"></script>
     }

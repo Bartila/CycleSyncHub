@@ -55,6 +55,11 @@ public class BikeController : Controller
     {
         if (!ModelState.IsValid)
         {
+            var errors = ModelState.Values.SelectMany(v => v.Errors);
+            foreach (var error in errors)
+            {
+                Console.WriteLine(error.ErrorMessage); 
+            }
             return View(command);
         }
         await _mediator.Send(command);

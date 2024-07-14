@@ -56,15 +56,16 @@
     <div id="infos" class="row" data-encoded-name="@Model.EncodedName"></div>
 
     <div>
-        @if (Model.IsEditable)
+        <a class="btn btn-outline-secondary" asp-controller="Bike" asp-action="Edit" asp-route-encodedName="@Model.EncodedName">Edit</a>
+    @*     @if (Model.IsEditable)
         {
             <a class="btn btn-outline-secondary" asp-controller="Bike" asp-action="Edit" asp-route-encodedName="@Model.EncodedName">Edit</a>
-        }
+        } *@
         <a class="btn btn-back" asp-action="Index">Back to List</a>
     </div>
 
     @section Scripts {
-        <script src="~/js/Details2.js"></script>
+     @*    <script src="~/js/Details2.js"></script> *@
     }
 </body>
 </html>

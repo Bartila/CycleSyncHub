@@ -7,8 +7,32 @@
       "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\controllers\\bikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub.application\\bike\\commands\\editbike\\editbikecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\bike\\commands\\editbike\\editbikecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\views\\bike\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\views\\bike\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\views\\bike\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\views\\bike\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\wwwroot\\js\\styledetails2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\wwwroot\\js\\styledetails2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\wwwroot\\js\\bike\\edit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -17,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\wwwroot\\js\\bike\\details.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\wwwroot\\js\\bike\\details.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub.infrastucture\\migrations\\20240713203525_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,22 +68,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\wwwroot\\js\\styledetails2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\wwwroot\\js\\styledetails2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\views\\bike\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\views\\bike\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\views\\bike\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\dell\\desktop\\cyclesynchub\\cyclesynchub\\views\\bike\\_createbikeinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -133,35 +137,89 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240713203525_init.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Infrastucture\\Migrations\\20240713203525_init.cs",
-              "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\Migrations\\20240713203525_init.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Infrastucture\\Migrations\\20240713203525_init.cs",
-              "RelativeToolTip": "CycleSyncHub.Infrastucture\\Migrations\\20240713203525_init.cs",
-              "ViewState": "AQIAAIwAAAAAbGZmZuYjwKEAAAARAAAA",
+              "DocumentIndex": 1,
+              "Title": "EditBikeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Application\\Bike\\Commands\\EditBike\\EditBikeCommandHandler.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\Bike\\Commands\\EditBike\\EditBikeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Application\\Bike\\Commands\\EditBike\\EditBikeCommandHandler.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\Bike\\Commands\\EditBike\\EditBikeCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T20:35:25.318Z"
+              "WhenOpened": "2024-07-14T08:51:48.641Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Microsoft.PackageDependencyResolution.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "ViewState": "AQIAALQBAAAAUDMzM3MkwAkBAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-07-13T19:27:15.545Z"
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Edit.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T23:12:56.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BikeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Controllers\\BikeController.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Controllers\\BikeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Controllers\\BikeController.cs",
+              "RelativeToolTip": "CycleSyncHub\\Controllers\\BikeController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwDMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:21:53.785Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Index.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Index.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T22:44:09.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Details.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Details.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Details.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwDoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T21:49:19.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "styleDetails2.js",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
+              "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
+              "RelativeToolTip": "CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-13T17:05:20.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Program.cs",
               "RelativeDocumentMoniker": "CycleSyncHub\\Program.cs",
@@ -169,23 +227,12 @@
               "RelativeToolTip": "CycleSyncHub\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T19:04:34.156Z"
+              "WhenOpened": "2024-07-13T19:04:34.156Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServiceCollectionExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Infrastucture\\Extensions\\ServiceCollectionExtension.cs",
-              "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\Extensions\\ServiceCollectionExtension.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Infrastucture\\Extensions\\ServiceCollectionExtension.cs",
-              "RelativeToolTip": "CycleSyncHub.Infrastucture\\Extensions\\ServiceCollectionExtension.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAowBoAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T19:04:13.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "BikeSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Infrastucture\\BikeSeeder.cs",
               "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\BikeSeeder.cs",
@@ -197,57 +244,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CycleSyncHub\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T19:01:41.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BikeController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Controllers\\BikeController.cs",
-              "RelativeDocumentMoniker": "CycleSyncHub\\Controllers\\BikeController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Controllers\\BikeController.cs",
-              "RelativeToolTip": "CycleSyncHub\\Controllers\\BikeController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwDAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T14:21:53.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Edit.cshtml",
-              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Edit.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADYAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T23:12:56.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "styleDetails2.js",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
-              "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
-              "RelativeToolTip": "CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-13T17:05:20.877Z"
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Infrastucture\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Infrastucture\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "CycleSyncHub.Infrastucture\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:04:13.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 11,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAALQBAAAAUDMzM3MkwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-13T19:27:15.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "styleDetails.css",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\wwwroot\\css\\styleDetails.css",
               "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\css\\styleDetails.css",
@@ -259,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Edit.js",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\wwwroot\\js\\Bike\\Edit.js",
               "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\js\\Bike\\Edit.js",
@@ -271,19 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Index.cshtml",
-              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Index.cshtml",
-              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Index.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAIBJwB0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T22:44:09.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Details.js",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\wwwroot\\js\\Bike\\Details.js",
               "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\js\\Bike\\Details.js",
@@ -295,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Shared\\_Layout.cshtml",
@@ -307,7 +316,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Create.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Create.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T20:36:34.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T19:01:41.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Shared\\_LoginPartial.cshtml",
@@ -319,7 +353,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
+              "Title": "20240713203525_init.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Infrastucture\\Migrations\\20240713203525_init.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\Migrations\\20240713203525_init.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Infrastucture\\Migrations\\20240713203525_init.cs",
+              "RelativeToolTip": "CycleSyncHub.Infrastucture\\Migrations\\20240713203525_init.cs",
+              "ViewState": "AQIAAIwAAAAAbGZmZuYjwKEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:35:25.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "_CreateBikeInfo.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\_CreateBikeInfo.cshtml",
               "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\_CreateBikeInfo.cshtml",
@@ -331,31 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Details.cshtml",
-              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Details.cshtml",
-              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T21:49:19.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Create.cshtml",
-              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\Views\\Bike\\Create.cshtml",
-              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T20:36:34.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "DeleteBikeCommand.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Application\\Bike\\Commands\\DeleteBike\\DeleteBikeCommand.cs",
               "RelativeDocumentMoniker": "CycleSyncHub.Application\\Bike\\Commands\\DeleteBike\\DeleteBikeCommand.cs",
@@ -367,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "styleDetails2.js",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
               "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
@@ -379,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "styleDetails.css",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\wwwroot\\css\\styleDetails.css",
               "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\css\\styleDetails.css",
@@ -391,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "styleCreate.css",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\wwwroot\\css\\styleCreate.css",
               "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\css\\styleCreate.css",
@@ -403,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "BikeInfoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Infrastucture\\Repositories\\BikeInfoRepository.cs",
               "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\Repositories\\BikeInfoRepository.cs",
@@ -415,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "CreateBikeCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Application\\Bike\\Commands\\CreateBike\\CreateBikeCommandHandler.cs",
               "RelativeDocumentMoniker": "CycleSyncHub.Application\\Bike\\Commands\\CreateBike\\CreateBikeCommandHandler.cs",
@@ -427,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "GetBikeInfosQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Application\\BikeInfo\\Queries\\GetBikeInfos\\GetBikeInfosQueryHandler.cs",
               "RelativeDocumentMoniker": "CycleSyncHub.Application\\BikeInfo\\Queries\\GetBikeInfos\\GetBikeInfosQueryHandler.cs",
@@ -439,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\js\\site.js",
@@ -451,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "GetBikeInfosQuery.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Application\\BikeInfo\\Queries\\GetBikeInfos\\GetBikeInfosQuery.cs",
               "RelativeDocumentMoniker": "CycleSyncHub.Application\\BikeInfo\\Queries\\GetBikeInfos\\GetBikeInfosQuery.cs",
@@ -463,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "CreateBikeInfoCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Application\\BikeInfo\\Commands\\CreateBikeInfoCommandHandler.cs",
               "RelativeDocumentMoniker": "CycleSyncHub.Application\\BikeInfo\\Commands\\CreateBikeInfoCommandHandler.cs",
@@ -475,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "CreateBikeInfoCommand.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Application\\BikeInfo\\Commands\\CreateBikeInfoCommand.cs",
               "RelativeDocumentMoniker": "CycleSyncHub.Application\\BikeInfo\\Commands\\CreateBikeInfoCommand.cs",
@@ -487,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "CreateBikeInfoCommnadValidator.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Application\\BikeInfo\\Commands\\CreateBikeInfoCommnadValidator.cs",
               "RelativeDocumentMoniker": "CycleSyncHub.Application\\BikeInfo\\Commands\\CreateBikeInfoCommnadValidator.cs",
@@ -499,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "IBikeInfoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CycleSyncHub\\CycleSyncHub.Domain\\Interfaces\\IBikeInfoRepository.cs",
               "RelativeDocumentMoniker": "CycleSyncHub.Domain\\Interfaces\\IBikeInfoRepository.cs",

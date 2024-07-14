@@ -23,15 +23,15 @@ namespace CycleSyncHub.Application.Bike.Commands.EditBike
             var bike = await _repository.GetByEncodedName(request.EncodedName!);
 
             var user = _userContext.GetCurrentUser();
-            var isEditable = user != null && (bike.CreatedById == user.Id || user.IsInRole("userPlus"));
+            var isEditable = user != null && (bike.CreatedById == user.Id || user.IsInRole("Owner"));
 
-            if (isEditable)
+            if (!isEditable)
             {
                 return Unit.Value;
             }
 
             bike.Description = request.Description;
- 
+
 
             bike.BikesDetails.TypeOfBike = request.TypeOfBike;
             bike.BikesDetails.Weight = request.Weight;
