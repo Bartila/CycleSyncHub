@@ -1,0 +1,68 @@
+﻿@model CycleSyncHub.Application.BikeInfo.Commands.CreateInfo.CreateBikeInfoCommand
+
+
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#createBikeInfoModal" style="margin-top: 10px;">
+    Add Bike Info
+</button>
+
+<div class="modal fade" id="createBikeInfoModal" tabindex="-1" aria-labelledby="createBikeInfoModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form asp-action="CreateBikeInfo">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="createBikeInfoModalLabel">Create new bike info</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input asp-for="BikeEncodedName" class="form-control" type="hidden" />
+
+                    <div class="form-group">
+                        <label asp-for="Info" class="control-label"></label>
+                        <input asp-for="Info" class="form-control" />
+                        <span asp-validation-for="Info" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="Cost" class="control-label">Price</label>
+                        <input asp-for="Cost" id="costInput" type="text" class="form-control" placeholder="00,000$" />
+                        <span asp-validation-for="Cost" class="text-danger"></span>
+                    </div>
+
+                    <script>
+                        const costInput = document.getElementById('costInput');
+
+                        costInput.addEventListener('input', function () {
+                            let value = this.value.replace(/[^0-9]/g, '');
+
+                            if (!value) {
+                                this.value = '';
+                                return;
+                            }
+
+                            value = parseInt(value).toLocaleString('en-US');
+                            this.value = value + '$';
+                        });
+
+                        costInput.addEventListener('blur', function () {
+                            if (this.value) {
+                                this.value = this.value.replace(/[^0-9]/g, '') + '$';
+                            }
+                        });
+                    </script>
+
+
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <input type="submit" value="Create" class="btn btn-primary"/>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

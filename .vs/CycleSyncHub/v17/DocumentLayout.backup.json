@@ -1,0 +1,751 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\views\\bike\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC5F320-CA49-45DC-900A-3F7EF54FDB79}|CycleSyncHub.Domain\\CycleSyncHub.Domain.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.domain\\entities\\bike.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DFC5F320-CA49-45DC-900A-3F7EF54FDB79}|CycleSyncHub.Domain\\CycleSyncHub.Domain.csproj|solutionrelative:cyclesynchub.domain\\entities\\bike.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\wwwroot\\js\\bike\\edit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\wwwroot\\js\\bike\\edit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\wwwroot\\js\\bike\\details.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\wwwroot\\js\\bike\\details.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\wwwroot\\js\\styledetails2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\wwwroot\\js\\styledetails2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\controllers\\bikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\controllers\\bikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.infrastucture\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|solutionrelative:cyclesynchub.infrastucture\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.infrastucture\\repositories\\bikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|solutionrelative:cyclesynchub.infrastucture\\repositories\\bikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.infrastucture\\repositories\\bikeinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|solutionrelative:cyclesynchub.infrastucture\\repositories\\bikeinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.infrastucture\\persistence\\cyclesynchubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|solutionrelative:cyclesynchub.infrastucture\\persistence\\cyclesynchubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\views\\bike\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\views\\bike\\_createbikeinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\_createbikeinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\views\\bike\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\bike\\commands\\editbike\\editbikecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\bike\\commands\\editbike\\editbikecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\bike\\commands\\createbike\\createbikecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\bike\\commands\\createbike\\createbikecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\bike\\commands\\createbike\\createbikecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\bike\\commands\\createbike\\createbikecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\cyclesynchub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\cyclesynchub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\views\\bike\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.infrastucture\\migrations\\cyclesynchubdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|solutionrelative:cyclesynchub.infrastucture\\migrations\\cyclesynchubdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\bikeinfo\\commands\\createinfo\\createbikeinfocommnadvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\bikeinfo\\commands\\createinfo\\createbikeinfocommnadvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\bikeinfo\\commands\\createinfo\\createbikeinfocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\bikeinfo\\commands\\createinfo\\createbikeinfocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\bikeinfo\\commands\\createinfo\\createbikeinfocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\bikeinfo\\commands\\createinfo\\createbikeinfocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\bike\\commands\\editbike\\editbikecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\bike\\commands\\editbike\\editbikecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\views\\bike\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\bike\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\mappings\\bikemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\mappings\\bikemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\bike\\bikedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\bike\\bikedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC5F320-CA49-45DC-900A-3F7EF54FDB79}|CycleSyncHub.Domain\\CycleSyncHub.Domain.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.domain\\entities\\bikedetails.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DFC5F320-CA49-45DC-900A-3F7EF54FDB79}|CycleSyncHub.Domain\\CycleSyncHub.Domain.csproj|solutionrelative:cyclesynchub.domain\\entities\\bikedetails.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC5F320-CA49-45DC-900A-3F7EF54FDB79}|CycleSyncHub.Domain\\CycleSyncHub.Domain.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.domain\\interfaces\\ibikeinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC5F320-CA49-45DC-900A-3F7EF54FDB79}|CycleSyncHub.Domain\\CycleSyncHub.Domain.csproj|solutionrelative:cyclesynchub.domain\\interfaces\\ibikeinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.infrastucture\\bikeseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|solutionrelative:cyclesynchub.infrastucture\\bikeseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\applicationuser\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\applicationuser\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\bikeinfo\\queries\\getbikeinfos\\getbikeinfosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\bikeinfo\\queries\\getbikeinfos\\getbikeinfosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\bike\\commands\\deletebike\\deletebikecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\bike\\commands\\deletebike\\deletebikecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\wwwroot\\css\\styledetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\wwwroot\\css\\styledetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\wwwroot\\js\\styledetails2.js||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\wwwroot\\js\\styledetails2.js||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\wwwroot\\css\\styledetails.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\wwwroot\\css\\styledetails.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub\\wwwroot\\css\\stylecreate.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FB5294-809D-41C6-9B39-F5BB8AE5AC35}|CycleSyncHub\\CycleSyncHub.csproj|solutionrelative:cyclesynchub\\wwwroot\\css\\stylecreate.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.infrastucture\\migrations\\20250119221853_startapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB89A3B-6D65-4348-94B3-9B3C3B4E789B}|CycleSyncHub.Infrastucture\\CycleSyncHub.Infrastucture.csproj|solutionrelative:cyclesynchub.infrastucture\\migrations\\20250119221853_startapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.application\\bikeinfo\\bikeinfodto.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81EC0C6B-CB87-4571-BB4E-87DA0D32A074}|CycleSyncHub.Application\\CycleSyncHub.Application.csproj|solutionrelative:cyclesynchub.application\\bikeinfo\\bikeinfodto.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC5F320-CA49-45DC-900A-3F7EF54FDB79}|CycleSyncHub.Domain\\CycleSyncHub.Domain.csproj|c:\\users\\lapob\\desktop\\cyclesynchub-main\\cyclesynchub.domain\\entities\\bikeinfo.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DFC5F320-CA49-45DC-900A-3F7EF54FDB79}|CycleSyncHub.Domain\\CycleSyncHub.Domain.csproj|solutionrelative:cyclesynchub.domain\\entities\\bikeinfo.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Domain\\Entities\\Bike.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Domain\\Entities\\Bike.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Domain\\Entities\\Bike.cs",
+              "RelativeToolTip": "CycleSyncHub.Domain\\Entities\\Bike.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA/wBcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:18:27.662Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.js",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\js\\Bike\\Edit.js",
+              "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\js\\Bike\\Edit.js",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\js\\Bike\\Edit.js",
+              "RelativeToolTip": "CycleSyncHub\\wwwroot\\js\\Bike\\Edit.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-21T22:49:51.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Bike\\Details.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Bike\\Details.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Details.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T09:46:25.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CycleSyncHubDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\Migrations\\CycleSyncHubDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\Migrations\\CycleSyncHubDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\Migrations\\CycleSyncHubDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CycleSyncHub.Infrastucture\\Migrations\\CycleSyncHubDbContextModelSnapshot.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAQwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:38:28.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\Repositories\\BikeRepository.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\Repositories\\BikeRepository.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\Repositories\\BikeRepository.cs",
+              "RelativeToolTip": "CycleSyncHub.Infrastucture\\Repositories\\BikeRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:43:01.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CycleSyncHubDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\Persistence\\CycleSyncHubDbContext.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\Persistence\\CycleSyncHubDbContext.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\Persistence\\CycleSyncHubDbContext.cs",
+              "RelativeToolTip": "CycleSyncHub.Infrastucture\\Persistence\\CycleSyncHubDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:12:22.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BikeController.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Controllers\\BikeController.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Controllers\\BikeController.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Controllers\\BikeController.cs",
+              "RelativeToolTip": "CycleSyncHub\\Controllers\\BikeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:33:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Bike\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Bike\\Edit.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T09:46:44.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Bike\\Index.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Bike\\Index.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T23:44:42.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BikeInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\Repositories\\BikeInfoRepository.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\Repositories\\BikeInfoRepository.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\Repositories\\BikeInfoRepository.cs",
+              "RelativeToolTip": "CycleSyncHub.Infrastucture\\Repositories\\BikeInfoRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:20:17.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T15:38:15.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Bike\\Create.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Bike\\Create.cshtml*",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T20:34:37.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateBikeCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Bike\\Commands\\CreateBike\\CreateBikeCommandValidator.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\Bike\\Commands\\CreateBike\\CreateBikeCommandValidator.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Bike\\Commands\\CreateBike\\CreateBikeCommandValidator.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\Bike\\Commands\\CreateBike\\CreateBikeCommandValidator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:56:04.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditBikeCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Bike\\Commands\\EditBike\\EditBikeCommandValidator.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\Bike\\Commands\\EditBike\\EditBikeCommandValidator.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Bike\\Commands\\EditBike\\EditBikeCommandValidator.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\Bike\\Commands\\EditBike\\EditBikeCommandValidator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:08:15.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_CreateBikeInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Bike\\_CreateBikeInfo.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\_CreateBikeInfo.cshtml",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Bike\\_CreateBikeInfo.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\_CreateBikeInfo.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T22:38:23.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateBikeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Bike\\Commands\\CreateBike\\CreateBikeCommandHandler.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\Bike\\Commands\\CreateBike\\CreateBikeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Bike\\Commands\\CreateBike\\CreateBikeCommandHandler.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\Bike\\Commands\\CreateBike\\CreateBikeCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T22:22:17.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateBikeInfoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\BikeInfo\\Commands\\CreateInfo\\CreateBikeInfoCommandHandler.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\BikeInfo\\Commands\\CreateInfo\\CreateBikeInfoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\BikeInfo\\Commands\\CreateInfo\\CreateBikeInfoCommandHandler.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\BikeInfo\\Commands\\CreateInfo\\CreateBikeInfoCommandHandler.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T22:04:17.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateBikeInfoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\BikeInfo\\Commands\\CreateInfo\\CreateBikeInfoCommand.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\BikeInfo\\Commands\\CreateInfo\\CreateBikeInfoCommand.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\BikeInfo\\Commands\\CreateInfo\\CreateBikeInfoCommand.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\BikeInfo\\Commands\\CreateInfo\\CreateBikeInfoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:10:30.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateBikeInfoCommnadValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\BikeInfo\\Commands\\CreateInfo\\CreateBikeInfoCommnadValidator.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\BikeInfo\\Commands\\CreateInfo\\CreateBikeInfoCommnadValidator.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\BikeInfo\\Commands\\CreateInfo\\CreateBikeInfoCommnadValidator.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\BikeInfo\\Commands\\CreateInfo\\CreateBikeInfoCommnadValidator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:57:58.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CycleSyncHub.csproj",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\CycleSyncHub.csproj",
+              "RelativeDocumentMoniker": "CycleSyncHub\\CycleSyncHub.csproj",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\CycleSyncHub.csproj",
+              "RelativeToolTip": "CycleSyncHub\\CycleSyncHub.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T22:56:45.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditBikeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Bike\\Commands\\EditBike\\EditBikeCommandHandler.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\Bike\\Commands\\EditBike\\EditBikeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Bike\\Commands\\EditBike\\EditBikeCommandHandler.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\Bike\\Commands\\EditBike\\EditBikeCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:51:48.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BikeInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\BikeInfo\\BikeInfoDto.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\BikeInfo\\BikeInfoDto.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\BikeInfo\\BikeInfoDto.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\BikeInfo\\BikeInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:07:18.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BikeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Domain\\Entities\\BikeInfo.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Domain\\Entities\\BikeInfo.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Domain\\Entities\\BikeInfo.cs",
+              "RelativeToolTip": "CycleSyncHub.Domain\\Entities\\BikeInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:09:28.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T16:05:19.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BikeSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\BikeSeeder.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\BikeSeeder.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\BikeSeeder.cs",
+              "RelativeToolTip": "CycleSyncHub.Infrastucture\\BikeSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:03:49.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IBikeInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Domain\\Interfaces\\IBikeInfoRepository.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Domain\\Interfaces\\IBikeInfoRepository.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Domain\\Interfaces\\IBikeInfoRepository.cs",
+              "RelativeToolTip": "CycleSyncHub.Domain\\Interfaces\\IBikeInfoRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:19:21.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BikeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Domain\\Entities\\BikeDetails.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Domain\\Entities\\BikeDetails.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Domain\\Entities\\BikeDetails.cs",
+              "RelativeToolTip": "CycleSyncHub.Domain\\Entities\\BikeDetails.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:05:27.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BikeMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Mappings\\BikeMappingProfile.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\Mappings\\BikeMappingProfile.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Mappings\\BikeMappingProfile.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\Mappings\\BikeMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:35:22.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BikeDto.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Bike\\BikeDto.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\Bike\\BikeDto.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Bike\\BikeDto.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\Bike\\BikeDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:46:22.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Bike\\Users.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Bike\\Users.cshtml",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Bike\\Users.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Bike\\Users.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T20:05:07.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\ApplicationUser\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\ApplicationUser\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\ApplicationUser\\CurrentUser.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\ApplicationUser\\CurrentUser.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:11:08.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "CycleSyncHub.Infrastucture\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:04:13.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeleteBikeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Bike\\Commands\\DeleteBike\\DeleteBikeCommand.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\Bike\\Commands\\DeleteBike\\DeleteBikeCommand.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\Bike\\Commands\\DeleteBike\\DeleteBikeCommand.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\Bike\\Commands\\DeleteBike\\DeleteBikeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T22:20:22.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetBikeInfosQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\BikeInfo\\Queries\\GetBikeInfos\\GetBikeInfosQueryHandler.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Application\\BikeInfo\\Queries\\GetBikeInfos\\GetBikeInfosQueryHandler.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Application\\BikeInfo\\Queries\\GetBikeInfos\\GetBikeInfosQueryHandler.cs",
+              "RelativeToolTip": "CycleSyncHub.Application\\BikeInfo\\Queries\\GetBikeInfos\\GetBikeInfosQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:15:40.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250119221853_startApp.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\Migrations\\20250119221853_startApp.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub.Infrastucture\\Migrations\\20250119221853_startApp.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub.Infrastucture\\Migrations\\20250119221853_startApp.cs",
+              "RelativeToolTip": "CycleSyncHub.Infrastucture\\Migrations\\20250119221853_startApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T22:18:53.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.js",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\js\\Bike\\Details.js",
+              "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\js\\Bike\\Details.js",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\js\\Bike\\Details.js",
+              "RelativeToolTip": "CycleSyncHub\\wwwroot\\js\\Bike\\Details.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-12T21:47:59.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Program.cs",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Program.cs",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Program.cs",
+              "RelativeToolTip": "CycleSyncHub\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:04:34.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "styleDetails.css",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\css\\styleDetails.css",
+              "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\css\\styleDetails.css",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\css\\styleDetails.css",
+              "RelativeToolTip": "CycleSyncHub\\wwwroot\\css\\styleDetails.css",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-13T17:06:47.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "styleDetails2.js",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
+              "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
+              "RelativeToolTip": "CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-13T17:05:20.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CycleSyncHub\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-12T21:46:18.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CycleSyncHub\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CycleSyncHub\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T19:01:41.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAALQBAAAAUDMzM3MkwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-13T19:27:15.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "styleDetails2.js",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
+              "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
+              "RelativeToolTip": "CycleSyncHub\\wwwroot\\js\\styleDetails2.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-13T17:05:01.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "styleDetails.css",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\css\\styleDetails.css",
+              "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\css\\styleDetails.css",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\css\\styleDetails.css",
+              "RelativeToolTip": "CycleSyncHub\\wwwroot\\css\\styleDetails.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-13T17:01:24.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "styleCreate.css",
+              "DocumentMoniker": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\css\\styleCreate.css",
+              "RelativeDocumentMoniker": "CycleSyncHub\\wwwroot\\css\\styleCreate.css",
+              "ToolTip": "C:\\Users\\lapob\\Desktop\\CycleSyncHub-main\\CycleSyncHub\\wwwroot\\css\\styleCreate.css",
+              "RelativeToolTip": "CycleSyncHub\\wwwroot\\css\\styleCreate.css",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-13T16:57:34.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
